@@ -6,7 +6,5 @@ target 'ExampleBsuirProject' do
   use_frameworks!
 
   # Pods for ExampleBsuirProject
-  pod 'Alamofire'
-  pod 'ObjectMapper'
-  pod 'AlamofireObjectMapper'
+
 end
