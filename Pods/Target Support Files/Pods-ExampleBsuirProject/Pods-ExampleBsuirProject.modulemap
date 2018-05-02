@@ -1,0 +1,6 @@
+framework module Pods_ExampleBsuirProject {
+  umbrella header "Pods-ExampleBsuirProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
